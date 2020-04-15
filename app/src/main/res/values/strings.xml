@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Material Design Concepts 1</string>
+    <string name="home_toolbar_name">Home </string>
+    <string name="title">Favorites</string>
+    <string name="search">Search</string>
+    <string name="more">More</string>
+    <string name="content_description_favorite">It marks Your Favorite Features</string>
+    <string name="content_description_search">Search for a particular item</string>
+    <string name="content_description_more">More Features</string>
 </resources>
